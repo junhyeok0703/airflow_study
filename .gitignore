@@ -1,0 +1,10 @@
+# GCP 키 파일
+airflow-bigquery/dags/data/*.json
+
+# Airflow 설정
+airflow-bigquery/config/airflow.cfg
+
+# 캐시 및 로그
+__pycache__/
+*.pyc
+logs/
